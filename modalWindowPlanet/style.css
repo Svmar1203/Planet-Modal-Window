@@ -18,7 +18,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  background: url('.vscode/eeeeee.png') no-repeat center center; /*linear-gradient(to top left, #28b487, #7dd56f);*/
+  background: url('.vscode/eeeeee.png') no-repeat center center;
+  background-size: cover; /*linear-gradient(to top left, #28b487, #7dd56f);*/
 }
 
 .show-modal1 {
